@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Nisha+Barnwal;Full+Stack+Developer;DevOps+Enthusiast;Turning+Ideas+Into+Scalable+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Hi,+I'm+Nisha+Barnwal;Full+Stack+Developer;DevOps+Enthusiast;Turning+Ideas+Into+Scalable+Software" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Nisha Barnwal</h1>
@@ -30,9 +30,34 @@ I enjoy transforming ideas into impactful software, designing scalable applicati
 
 # 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,java,git,github,docker,linux,aws,postman,vscode" />
-</p>
+### 💻 Programming Languages
+- Java
+- JavaScript
+
+### 🎨 Frontend Development
+- HTML5
+- CSS3
+- React.js
+
+### ⚙️ Backend Development
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- MongoDB
+
+### ☁️ DevOps & Tools
+- Git
+- GitHub
+- Docker
+- Linux
+- Postman
+- VS Code
+
+### 🧠 Core Computer Science
+- Data Structures & Algorithms (DSA)
+- Operating System (OS)
+- Computer Networks (CN)
 
 ---
 
@@ -60,6 +85,7 @@ A responsive finance dashboard for tracking income, expenses, and financial insi
 
 ### 🤝 Co-Working Space Website
 A modern and responsive website for discovering and booking co-working spaces.
+
 ---
 
 # 📫 Connect With Me
@@ -70,7 +96,9 @@ A modern and responsive website for discovering and booking co-working spaces.
 
 ---
 
-> "Turning ideas into scalable software, one project at a time🚀."
+# 💡 Quote
+
+> **"Turning ideas into scalable software, one project at a time."** 🚀
 
 ---
 
