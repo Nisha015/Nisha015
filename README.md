@@ -75,16 +75,16 @@ I enjoy designing scalable web applications, developing efficient backend system
 
 ## 📌 Featured Projects
 
-### 👤 GitHub User Finder
+### 👤 GitHub User Finder:
 Search GitHub users using the GitHub REST API with a clean and responsive interface.
 
-### 🏥 Hospital Management System (HMS)
+### 🏥 Hospital Management System (HMS):
 A comprehensive web application for managing patients, appointments, doctors, and hospital operations.
 
-### 💰 Finance Dashboard
+### 💰 Finance Dashboard:
 A responsive finance dashboard for tracking income, expenses, and financial insights.
 
-### 🤝 Co-Working Space Website
+### 🤝 Co-Working Space Website:
 A modern and responsive platform for discovering and booking co-working spaces.
 
 ---
@@ -109,12 +109,9 @@ A modern and responsive platform for discovering and booking co-working spaces.
 
 ---
 
-> **"Turning ideas into scalable software, one project at a time."** 🚀
-
----
-
 <p align="center">
-
+  
+**"Turning ideas into scalable software, one project at a time."** 🚀
 ⭐ Thank you for visiting my profile! ⭐
 
 </p>
