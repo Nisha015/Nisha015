@@ -12,9 +12,7 @@ Final Year B.Tech CSE Student • Full Stack Developer • DevOps Enthusiast
 Passionate about building scalable web applications, solving real-world problems, and writing clean, maintainable code.
 </p>
 
-
-
-# 👩‍💻 About Me
+---
 
 ## 👩‍💻 About Me
 
@@ -27,7 +25,7 @@ I enjoy designing scalable web applications, developing efficient backend system
 - ☁️ DevOps Enthusiast
 - 🚀 Passionate about building scalable software solutions
 
-
+---
 
 ## 🚀 Tech Stack
 
@@ -63,7 +61,7 @@ I enjoy designing scalable web applications, developing efficient backend system
 
 </p>
 
-
+---
 
 ## 🌟 Core Skills
 
@@ -73,7 +71,7 @@ I enjoy designing scalable web applications, developing efficient backend system
 | ☁️ DevOps | ![DevOps](https://img.shields.io/badge/DevOps-Fundamentals-0EA5E9?style=flat-square) ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square) |
 | 🧠 Computer Science | ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8B5CF6?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-14B8A6?style=flat-square) ![OS](https://img.shields.io/badge/Operating%20System-64748B?style=flat-square) ![CN](https://img.shields.io/badge/Computer%20Networks-0284C7?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-16A34A?style=flat-square) |
 
-
+---
 
 ## 📌 Featured Projects
 
@@ -89,7 +87,7 @@ A responsive finance dashboard for tracking income, expenses, and financial insi
 ### 🤝 Co-Working Space Website
 A modern and responsive platform for discovering and booking co-working spaces.
 
-
+---
 
 ## 📫 Connect With Me
 
