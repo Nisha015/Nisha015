@@ -1,13 +1,20 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Nisha+Barnwal;Full+Stack+Developer;DevOps+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
 <h1 align="center">Hi 👋, I'm Nisha Barnwal</h1>
+
+<h3 align="center">
+Full Stack Developer • DevOps Enthusiast • Software Engineer
+</h3>
 <h3 align="center">Final Year B.Tech CSE Student | Full Stack Developer | DevOps Enthusiast</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a passionate Full Stack Developer and DevOps enthusiast currently pursuing my Bachelor's in Computer Science Engineering.
+I'm a Final Year B.Tech Computer Science student specializing in Full Stack Development and DevOps.
 
-I enjoy building scalable web applications, exploring cloud technologies, and solving real-world problems through technology. I believe in continuous learning, writing clean code, and building impactful software.
+I enjoy building scalable web applications, designing clean user experiences, and exploring cloud technologies. I'm passionate about solving real-world problems through technology and continuously improving my skills by building impactful projects.
 
 - 🎓 Final Year B.Tech CSE Student
 - 💻 Full Stack Web Developer
@@ -18,6 +25,11 @@ I enjoy building scalable web applications, exploring cloud technologies, and so
 ---
 
 ## 🚀 Tech Stack
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,docker,linux,vscode" />
+
+</p>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -44,12 +56,26 @@ I enjoy building scalable web applications, exploring cloud technologies, and so
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nisha015&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha015&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Nisha015&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha015&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha015&layout=compact&theme=tokyonight)
+
+## 📊 GitHub Streak
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisha015&theme=tokyonight"/>
+
+</p>
 
 ---
 
@@ -60,5 +86,5 @@ I enjoy building scalable web applications, exploring cloud technologies, and so
 - 🌐 Portfolio: *(https://nisha015.netlify.app)*
 
 ---
-
+> "Turning ideas into scalable software."
 ⭐ Thanks for visiting my profile!
