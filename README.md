@@ -110,10 +110,9 @@ A modern and responsive platform for discovering and booking co-working spaces.
 ---
 
 <p align="center">
-  
-**"Turning ideas into scalable software, one project at a time."** 🚀
+  <i>"Turning ideas into scalable software, one project at a time."</i> 🚀
+</p>
 
 <p align="center">
-⭐ Thank you for visiting my profile! ⭐
-</p>
+  ⭐ <b>Thank you for visiting my profile!</b> ⭐
 </p>
